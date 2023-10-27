@@ -34,6 +34,3 @@ Copy the trajectory pickle file from data_gen/trajectories to SB_BC/trajectories
 ##  And then test the cloned policy on target task:
 
 `$ python SB_BC/test.py`
-
-##  To set up TurtleBot2 ROS stack, 
-`$ cd turtlebot_transfer_learning`
